@@ -10942,3 +10942,7 @@ a.text-dark:focus {
   color: #E9782E;
 }
 
+header a.loginbtn {
+  padding: 0.4rem 2rem 0.4rem 2rem;
+}
+
